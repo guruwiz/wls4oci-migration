@@ -95,7 +95,7 @@ JCS에서 WebLogic Server for OCI로의 마이그레이션을 하기 위해 아�
     
   - JCS에서 사용한 버전과 관계없이 WLS for OCI 12.2.1.4 버전의 인스턴스 생성
     
-  - 웹로직 Admin서버, Managed 서버 외부 포트를 일치 시킴
+  - 웹로직 Admin서버, Managed 서버 외부 포트를 일치 시킴
     
   - JCS가 OTD를 사용하기 때문에 OCI에서도 로드 밸런서를 프로비저닝 해줘야 함
     
