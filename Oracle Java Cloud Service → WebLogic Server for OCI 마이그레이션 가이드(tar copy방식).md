@@ -239,7 +239,7 @@ ls /u01/data/domains/ | grep _domain
     
   - WLS for OCI 인스턴스에서 다음 단계를 완료
   
-  1) Oracle 사용자로 Admin, Managed Server node에서 다음 명령을 실행
+  1) Oracle 사용자로 Admin, Managed Server node에서 다음 명령을 실행
 
 ```
 sudo su - oracle
