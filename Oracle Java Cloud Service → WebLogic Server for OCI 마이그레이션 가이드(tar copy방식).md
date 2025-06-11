@@ -4,7 +4,6 @@ JCS에서 WebLogic Server for OCI로의 마이그레이션을 하기 위해 아�
 
 ![마이그레이션 방법론](images/Pasted%20image%2020250610194307.png)
 
-
 이중 다음 전제 조건이 충족되면 tar 복사 마이그레이션 진행방법으로 고려해볼만 합니다:
 
 - Oracle Java Cloud Service는 Oracle Cloud Infrastructure Database(기존 DBCS가 아님) 또는 자율형 데이터베이스를 사용
