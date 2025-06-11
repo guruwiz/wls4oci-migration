@@ -193,10 +193,10 @@ tar xvf /tmp/jdk.tar -C /u01/app/oracle/jdk/
 
 
 - ### 도메인 컨텐츠 업데이트
-  
-  - Cloning 스크립트를 사용하여 도메인 컨텐츠를 업데이트를 하려면 다음 단계를 따라합니다.
 
-  1) Oracle 사용자로 WLS for OCI 에 있는 VM에서 다음 명령을 실행합니다.
+- Cloning 스크립트를 사용하여 도메인 컨텐츠를 업데이트를 하려면 다음 단계를 따라합니다.
+
+1) Oracle 사용자로 WLS for OCI 에 있는 VM에서 다음 명령을 실행합니다.
      
 ```
 sudo su - oracle
