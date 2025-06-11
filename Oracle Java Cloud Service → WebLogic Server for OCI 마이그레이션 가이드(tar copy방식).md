@@ -59,7 +59,7 @@ JCS에서 WebLogic Server for OCI로의 마이그레이션을 하기 위해 아�
 
    - `hostname`과 `database 연결 문자열`을 OCI 환경에 맞게 수정
 
-8. **(Optional) IDCS 설정**
+8. **(Optional) IDCS 설정**
 
    - Oracle Identity Cloud Service 사용 시 다음 작업 필요:
 
