@@ -17,7 +17,7 @@ JCS에서 WebLogic Server for OCI로의 마이그레이션을 하기 위해 아�
 이 가이드에서는 `tar` 명령어를 사용하여 **Oracle Java Cloud Service 인스턴스**를 **OCI용 Oracle WebLogic Server 도메인**으로 마이그레이션하는 절차를 설명합니다.
 
 > 💡 아래 다이어그램은 Oracle Java Cloud Service tar 복사 방식의 마이그레이션 토폴로지를 보여줍니다. 
-![[Pasted image 20250610080824.png]]
+![마이그레이션 다이어그램](images/Pasted%20image%2020250610080824.png)
   
 ---
 ## 🛠 마이그레이션 절차 (요약)
