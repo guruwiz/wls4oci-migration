@@ -92,7 +92,7 @@ JCS에서 WebLogic Server for OCI로의 마이그레이션을 하기 위해 아�
   
   - OCI 마켓플레이스에서 JCS에서 사용한 웹로직 버전 및 Edition 선택(Stack방식으로 프로비저닝)
     
-  - JCS에서 사용한 버전과 관계없이 WLS for OCI 12.2.1.4 버전의 인스턴스 생성
+  - JCS에서 사용한 버전과 관계없이 WLS for OCI 12.2.1.4 버전의 인스턴스 생성
     
   - 웹로직 Admin서버, Managed 서버 외부 포트를 일치 시킴
     
