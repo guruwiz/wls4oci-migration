@@ -83,7 +83,7 @@ JCS에서 WebLogic Server for OCI로의 마이그레이션을 하기 위해 아�
   
   - admin console 접속이 어려워 고객으로 부터 config.xml 제공 받았을때 포트 및 환경 파악
 
-![Configxml](images/Pasted%20image%20250610175416.png)
+![Configxml](images/Pasted%20image%2020250610175416.png)
  
 - 마이그레이션 대상 웹로직 인스턴스의 비밀번호를 <font color="red">JCS에서 사용했던 웹로직 관리자 비밀 번호로 설정</font>해줍니다.
 
