@@ -124,9 +124,10 @@ jps
 
 - ### 도메인 및 바이너리 교체
   
-  - OCI 인스턴스의 Oracle WebLogic Server 에서 도메인과 바이너리를 교체합니다.
+- OCI 인스턴스의 Oracle WebLogic Server 에서 도메인과 바이너리를 교체합니다.
   
-  1) Oracle Java Cloud Service 인스턴스 에서 WebLogic 관리 서버를 실행하는 VM에 액세스 하고 다음 명령을 실행하여 WebLogic 도메인과 바이너리를 tar 압축해 놓습니다.
+1) Oracle Java Cloud Service 인스턴스 에서 WebLogic 관리 서버를 실행하는 VM에 액세스 하고 다음 명령을 실행하여 WebLogic 도메인과 바이너리를 tar 압축해 놓습니다.
+
 ```
 sudo su - oracle
 cd /u01/data/domains
@@ -136,7 +137,7 @@ tar cvf /tmp/mw.tar .
 cd /u01/jdk/
 tar cvf /tmp/jdk.tar .
 ```  
-  
+
   2) Oracle 사용자로 로그인 하고 Oracle JCS 인스턴스의 각 추가 VM에 ssh로 접속 하여 WebLogic 도메인 콘텐츠를 tar 압축해 놓습니다.
 ```
 cd /u01/data/domains
