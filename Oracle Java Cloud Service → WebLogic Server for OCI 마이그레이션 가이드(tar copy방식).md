@@ -171,7 +171,7 @@ mkdir /tmp/mw_bak
 mv /u01/app/* /tmp/mw_bak/
 ```
     
-  4) WLS for OCI 인스턴스에 `domain.tar`, `mw.tar`, jdk.tar 파일을 복사
+  4) WLS for OCI 인스턴스에 `domain.tar`, `mw.tar`, jdk.tar 파일을 복사
     a) 사용자로 Oracle Java Cloud Service 인스턴스 에 액세스 하고 scp를 실행하여 각 VM의 tar 파일을 OCI 인스턴스의 Oracle WebLogic Server`opc` 에 있는 해당 VM으로 복사
     다음 예에서는 OCI 인스턴스에 대한 Oracle WebLogic Server 에 IP 주소가 있는 단일 VM이 있습니다 `10.1.1.1`
 
