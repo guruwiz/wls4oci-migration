@@ -82,7 +82,8 @@ JCS에서 WebLogic Server for OCI로의 마이그레이션을 하기 위해 아�
   - 🪏 타겟 wls for oci 구성시 아키텍처 구성 및 포트 내용을 참고해서 구성합니다. 아래는 스크린샷은 프로비저닝 구성 예시입니다.
   
   - admin console 접속이 어려워 고객으로 부터 config.xml 제공 받았을때 포트 및 환경 파악
-  ![[Pasted image 20250610175416.png|500]]
+
+![Configxml](images/Pasted%20image%20250610175416.png)
  
 - 마이그레이션 대상 웹로직 인스턴스의 비밀번호를 <font color="red">JCS에서 사용했던 웹로직 관리자 비밀 번호로 설정</font>해줍니다.
 
