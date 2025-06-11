@@ -321,5 +321,5 @@ jcs_resource_prefix=domain_name[0:8]
  - OTD에 있는 JCS ssl 인증서는 오라클에서 자동 발급 관리하였으나 WLS for OCI에서는 도메인 등록 및 SSL 인증서 등록을 Customer가 챙겨야 함. 마이그레이션 전 고객과 미리 협의해 두어야 좋음
    
  - JCS를 Oracle Fusion Apps와의 연동을 위해 SaaS extension(JCS-sx서비스는 아님)형태로 사용하면 IDCS SSO 연동 부분을 체크해야 하나 사이트에서 해당 부분을 사용하지 않고 도메인 액세스 제어 부분만 콘트롤 할 수 있음.(특정 케이스인 경우) 아래와 같이 CORS 설정 부분에 접근 허용 IP, 도메인 등록이 필요
-   ![[Pasted image 20250611092120.png]]
+   ![[images/Pasted%20image%2020250611092120.png]]
    https://docs.oracle.com/en/cloud/saas/human-resources/25b/farws/Configure_for_CORS.html
